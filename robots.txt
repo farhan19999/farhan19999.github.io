@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://farhan19999.github.io/sitemap.xml
