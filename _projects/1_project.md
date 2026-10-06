@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
+title: "FedCrime: Federated learning based crime prediction model"
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/model_architecture_data_sharing_method_5.png
 importance: 1
-category: work
-related_publications: true
+category: research
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
