@@ -35,4 +35,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a Software Engineer in Application Development Group at [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd). I completed my B.Sc. in Computer Science and Engineering from [BUET](https://cse.buet.ac.bd/).
 
-I am interested in  privacy preserving machine leaning model, spatio-temporal data analysis.
+I am interested in privacy preserving machine leaning model, spatio-temporal data analysis.
