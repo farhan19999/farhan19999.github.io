@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "FedCrime: Federated learning based crime prediction model"
-description: with background image
+description: A privacy preserving enhanced crime prediction model utilizing both public and private data
 img: assets/img/model_architecture_data_sharing_method_5.png
 importance: 1
 category: research
