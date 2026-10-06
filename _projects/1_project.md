@@ -16,6 +16,18 @@ FedCrime is my undergrad thesis work along with [Prangon Chakraborty](https://pr
 [Short Paper]
 </a>
 
+### Architecture
+
+### Architecture
+
+{% include figure.liquid
+   loading="eager"
+   path="assets/img/model_architecture_data_sharing_method_5.png"
+   title="FedCrime system architecture"
+   class="img-fluid rounded z-depth-1"
+%}
+
+
 <!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
