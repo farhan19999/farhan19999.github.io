@@ -8,11 +8,17 @@ category: research
 related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+FedCrime is my undergrad thesis work along with [Prangon Chakraborty](https://prangonchakraborty-1805085.github.io/) supervised by [Dr. Tanzima Hashem](https://sites.google.com/site/tanzimahashem/). In this research project, we worked to solve crime prediction model using federated learning model. To improve traditional centralized model, we intended to use private user crime data using federated learning. During this research work, we aimed to solve extreme sparsity of client side model to improve the aggregated model.
+<a href="/assets/pdf/FedCrime.pdf" target="_blank" rel="noopener">
+  [Thesis Paper]
+</a>
+<a href="/assets/pdf/Extended_Abstract_FedCrime.pdf" target="_blank" rel="noopener">
+  [Short Paper]
+</a>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+
+<!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -78,4 +84,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
