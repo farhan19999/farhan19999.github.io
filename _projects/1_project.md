@@ -10,13 +10,11 @@ related_publications: false
 
 FedCrime is my undergrad thesis work along with [Prangon Chakraborty](https://prangonchakraborty-1805085.github.io/) supervised by [Dr. Tanzima Hashem](https://sites.google.com/site/tanzimahashem/). In this research project, we worked to solve crime prediction model using federated learning model. To improve traditional centralized model, we intended to use private user crime data using federated learning. During this research work, we aimed to solve extreme sparsity of client side model to improve the aggregated model.
 <a href="/assets/pdf/FedCrime.pdf" target="_blank" rel="noopener">
-  [Thesis Paper]
+[Thesis Paper]
 </a>
 <a href="/assets/pdf/Extended_Abstract_FedCrime.pdf" target="_blank" rel="noopener">
-  [Short Paper]
+[Short Paper]
 </a>
-
-
 
 <!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
