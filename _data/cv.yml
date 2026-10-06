@@ -13,7 +13,7 @@ cv:
       username: "md-farhan-mahtab-780b37198"
 
   address:
-    street: ""
+    # street: ""
     city: Dhaka
     region: Dhaka Division
     postalCode: ""
@@ -134,17 +134,17 @@ cv:
         icon: fa-solid fa-microchip
         keywords: "IoT Security, Matter SDK, Tizen, QEMU"
 
-    Certificates: []
+    # Certificates: []
 
     Projects:
-      - name: "FedCrime: A Federated Learning Based Crime Prediction Model"
-        summary: A federated learning-based approach for crime prediction using private crime data while preserving privacy.
-        highlights:
-          - Federated Learning
-          - Privacy-Preserving Machine Learning
-          - Crime Prediction
-        start_date: 2023-07
-        end_date: 2024-05
+      # - name: "FedCrime: A Federated Learning Based Crime Prediction Model"
+      #   summary: A federated learning-based approach for crime prediction using private crime data while preserving privacy.
+      #   highlights:
+      #     - Federated Learning
+      #     - Privacy-Preserving Machine Learning
+      #     - Crime Prediction
+      #   start_date: 2023-07
+      #   end_date: 2024-05
 
       - name: Myers-Briggs Personality Type Identification Using LLM
         summary: An LLM-based approach using embeddings from social media text to identify the INTJ personality type.
@@ -155,8 +155,8 @@ cv:
         start_date: 2023-10
         end_date: 2024-02
 
-    Publications: []
+    # Publications: []
 
-    Volunteer: []
+    # Volunteer: []
 
-    References: []
+    # References: []
